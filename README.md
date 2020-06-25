@@ -1,5 +1,9 @@
 # Service Status Alert with Email Notification
 --------------------------------------------------
+Requirements:
+-------------------------------------------------
+* Python3
+* Setup email confgurations in the script
 
 When will the alert be generated
 -------------------------------------------------

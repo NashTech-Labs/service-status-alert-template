@@ -15,9 +15,9 @@ How Script Works:
 
 How to Run:
 ----------------------------------------------------
-
+```bash
 ./service_monitor_alert.py {Service name}
-
+```
 For Example:
 service_monitor_alert.py rsync
 
